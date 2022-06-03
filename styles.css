@@ -1,0 +1,48 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 300px;
+
+}
+
+h1 {
+  color:#66BFBF;
+  text-decoration: underline #66BFBF;
+
+}
+
+h2{
+  color:black;
+}
+
+h3{
+  color:#66BFBF;
+  text-decoration: underline #66BFBF;
+}
+
+table{
+  font-size: 95%;
+}
+
+h4{
+  font-size: 95%
+}
+
+.links:hover{
+  color:orange;
+}
+
+.table1{
+  background: #EAF6F6;
+  border-radius: 2.5%;
+}
